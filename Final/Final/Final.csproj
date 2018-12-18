@@ -80,10 +80,65 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+
+    <Content Include="Properties\Resources\10 clubs.PNG" />
+    <Content Include="Properties\Resources\10 of diamonds.PNG" />
+    <Content Include="Properties\Resources\10 of hearts.PNG" />
+    <Content Include="Properties\Resources\10 of spades.PNG" />
+    <Content Include="Properties\Resources\2nd of clubs.PNG" />
+    <Content Include="Properties\Resources\2nd of diamonds.PNG" />
+    <Content Include="Properties\Resources\2nd of hearts.PNG" />
+    <Content Include="Properties\Resources\2nd of spades.PNG" />
+    <Content Include="Properties\Resources\3 clubs.PNG" />
+    <Content Include="Properties\Resources\3rd of diamonds.PNG" />
+    <Content Include="Properties\Resources\3rd of hearts.PNG" />
+    <Content Include="Properties\Resources\3rd of spades.PNG" />
+    <Content Include="Properties\Resources\4 club.PNG" />
+    <Content Include="Properties\Resources\4 of diamonds.PNG" />
+    <Content Include="Properties\Resources\4 of hearts.PNG" />
+    <Content Include="Properties\Resources\4 of spades.PNG" />
+    <Content Include="Properties\Resources\5 club.PNG" />
+    <Content Include="Properties\Resources\5 of diamonds.PNG" />
+    <Content Include="Properties\Resources\5 of hearts.PNG" />
+    <Content Include="Properties\Resources\5 of spades.PNG" />
+    <Content Include="Properties\Resources\6 club.PNG" />
+    <Content Include="Properties\Resources\6 of diamonds.PNG" />
+    <Content Include="Properties\Resources\6 of hearts.PNG" />
+    <Content Include="Properties\Resources\6 of spades.PNG" />
+    <Content Include="Properties\Resources\7 clubs.PNG" />
+    <Content Include="Properties\Resources\7 of diamonds.PNG" />
+    <Content Include="Properties\Resources\7 of hearts.PNG" />
+    <Content Include="Properties\Resources\7 of spades.PNG" />
+    <Content Include="Properties\Resources\8 clubs.PNG" />
+    <Content Include="Properties\Resources\8 of diamonds.PNG" />
+    <Content Include="Properties\Resources\8 of hearts.PNG" />
+    <Content Include="Properties\Resources\8 of spades.PNG" />
+    <Content Include="Properties\Resources\9 clubs.PNG" />
+    <Content Include="Properties\Resources\9 of diamonds.PNG" />
+    <Content Include="Properties\Resources\9 of hearts.PNG" />
+    <Content Include="Properties\Resources\9 of spades.PNG" />
+    <Content Include="Properties\Resources\ace of clubs.PNG" />
+    <Content Include="Properties\Resources\ace of diamonds.PNG" />
+    <Content Include="Properties\Resources\ace of hearts.PNG" />
+    <Content Include="Properties\Resources\ace of spades.PNG" />
+    <Content Include="Properties\Resources\jack of clubs.PNG" />
+    <Content Include="Properties\Resources\jack of diamonds.PNG" />
+    <Content Include="Properties\Resources\jack of hearts.PNG" />
+    <Content Include="Properties\Resources\jack of spades.PNG" />
+    <Content Include="Properties\Resources\king of clubs.PNG" />
+    <Content Include="Properties\Resources\king of diamonds.PNG" />
+    <Content Include="Properties\Resources\king of hearts.PNG" />
+    <Content Include="Properties\Resources\king of spades.PNG" />
+    <Content Include="Properties\Resources\queen of clubs.PNG" />
+    <Content Include="Properties\Resources\queen of diamonds.PNG" />
+    <Content Include="Properties\Resources\queen of hearts.PNG" />
+    <Content Include="Properties\Resources\queen of spades.PNG" />
+
     <None Include="Resources\Capture.PNG" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cards.png" />
+
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
