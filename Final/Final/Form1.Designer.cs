@@ -45,9 +45,9 @@
             this.lblWins.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWins.Location = new System.Drawing.Point(13, 13);
             this.lblWins.Name = "lblWins";
-            this.lblWins.Size = new System.Drawing.Size(48, 24);
+            this.lblWins.Size = new System.Drawing.Size(52, 24);
             this.lblWins.TabIndex = 0;
-            this.lblWins.Text = "wins";
+            this.lblWins.Text = "Wins";
             // 
             // lbllosses
             // 
@@ -55,9 +55,9 @@
             this.lbllosses.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbllosses.Location = new System.Drawing.Point(13, 55);
             this.lbllosses.Name = "lbllosses";
-            this.lbllosses.Size = new System.Drawing.Size(63, 24);
+            this.lbllosses.Size = new System.Drawing.Size(69, 24);
             this.lbllosses.TabIndex = 1;
-            this.lbllosses.Text = "losses";
+            this.lbllosses.Text = "Losses";
             // 
             // btnCards
             // 
@@ -108,9 +108,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 453);
-            this.Controls.Add(this.pictureBox2);
-            this.Controls.Add(this.pictureBox1);
+
             this.Controls.Add(this.lbllossCount);
             this.Controls.Add(this.lblwinCount);
             this.Controls.Add(this.btnCards);
