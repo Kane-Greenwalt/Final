@@ -49,7 +49,7 @@
             // 
             this.lbllosses.AutoSize = true;
             this.lbllosses.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbllosses.Location = new System.Drawing.Point(12, 420);
+            this.lbllosses.Location = new System.Drawing.Point(13, 55);
             this.lbllosses.Name = "lbllosses";
             this.lbllosses.Size = new System.Drawing.Size(63, 24);
             this.lbllosses.TabIndex = 1;
@@ -57,7 +57,7 @@
             // 
             // btn
             // 
-            this.btn.Location = new System.Drawing.Point(355, 187);
+            this.btn.Location = new System.Drawing.Point(17, 99);
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(75, 23);
             this.btn.TabIndex = 2;
@@ -76,7 +76,7 @@
             // lbllossCount
             // 
             this.lbllossCount.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lbllossCount.Location = new System.Drawing.Point(92, 428);
+            this.lbllossCount.Location = new System.Drawing.Point(86, 56);
             this.lbllossCount.Name = "lbllossCount";
             this.lbllossCount.Size = new System.Drawing.Size(100, 23);
             this.lbllossCount.TabIndex = 4;
