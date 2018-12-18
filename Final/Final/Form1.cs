@@ -26,5 +26,10 @@ namespace Final
         {
 
         }
+
+        private void btnCards_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
