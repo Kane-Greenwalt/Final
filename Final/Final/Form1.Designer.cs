@@ -78,7 +78,7 @@
             this.lblwinCount.Name = "lblwinCount";
             this.lblwinCount.Size = new System.Drawing.Size(100, 23);
             this.lblwinCount.TabIndex = 3;
-            this.lblwinCount.Click += new System.EventHandler(this.lbl_Click);
+
             // 
             // lbllossCount
             // 
@@ -118,7 +118,7 @@
             this.Controls.Add(this.lblWins);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
