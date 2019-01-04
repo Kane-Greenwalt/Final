@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayClass.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -53,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Win loss class.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -80,7 +82,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-
     <Content Include="Properties\Resources\10 clubs.PNG" />
     <Content Include="Properties\Resources\10 of diamonds.PNG" />
     <Content Include="Properties\Resources\10 of hearts.PNG" />
@@ -133,12 +134,10 @@
     <Content Include="Properties\Resources\queen of diamonds.PNG" />
     <Content Include="Properties\Resources\queen of hearts.PNG" />
     <Content Include="Properties\Resources\queen of spades.PNG" />
-
     <None Include="Resources\Capture.PNG" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cards.png" />
-
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
