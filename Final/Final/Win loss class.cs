@@ -16,8 +16,10 @@ namespace Final
             int Scorewins;
             int Scoreloss;
             int round;
+           
 
-
+            ArrayClass.CardArrayPC(x);
+            ArrayClass.CardArrayPlayer();
         }
 
     }
